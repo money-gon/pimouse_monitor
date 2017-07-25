@@ -21,6 +21,9 @@
   <!-- Example: -->
   <!-- <url type="website">http://wiki.ros.org/pimouse_monitor</url> -->
 
+  <!-- sudo apt install ros-kinetic-rosbridge-suite -->
+  <!-- wget https://github.com/twbs/bootstrap/releases/download/v3.3.7/bootstrap-3.3.7-dist.zip -->
+
 
   <!-- Author tags are optional, multiple are allowed, one per tag -->
   <!-- Authors do not have to be maintainers, but could be -->
